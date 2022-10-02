@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1640935213 source:e:\c_programming\project\gui\spidey\icon.rc
+
+1640940848 source:e:\c_programming\project\gui\spidey\main.c
+	<stdio.h>
+	<tchar.h>
+	<windows.h>
+	<string.h>
+

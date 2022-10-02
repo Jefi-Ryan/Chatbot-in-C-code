@@ -1,0 +1,3 @@
+#define IDE_ICON 1
+MAINICON ICON "spidey_icon.ico"
+IDE_ICON ICON "spidey_icon.ico"
